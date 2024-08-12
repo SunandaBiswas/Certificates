@@ -1,2 +1,2 @@
 # Certificates
-Cetificates of Online Courses.
+Cetificates of Online Training Courses.
